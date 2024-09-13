@@ -1,4 +1,4 @@
-# Portfolio of Vinayak Singh
+# Portfolio of Wajeeha Baig
 
 <img src ="file:///Users/khan/Desktop/scgit commit -m "first commit"
 git branch -M mainene.png" />
