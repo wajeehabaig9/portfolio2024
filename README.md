@@ -1,6 +1,6 @@
 # Wajeeha Baig — Portfolio 2024
 
-<img src="./public/portfolio.png" alt="Wajeeha Baig Portfolio 2024" width="100%" />
+<img src="./public/Images/portfolio.png" alt="Wajeeha Baig Portfolio 2024" width="100%" />
 
 ## About
 
